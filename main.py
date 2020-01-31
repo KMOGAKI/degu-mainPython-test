@@ -13,4 +13,4 @@ if __name__ == '__main__':
             print("New script is comming! Restarting...")
             machine.reset();
         print("Hello! I'm Bob.")
-        degu.suspend(600)
+        time.sleep(2)
